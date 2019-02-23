@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://i.pinimg.com/736x/af/76/11/af7611ddeee5d82dcbfba478449b04e1--keyboard-aurora.jpg");
       background-size: cover;
       color: white;
     }
@@ -9,11 +9,14 @@
     }
     h1 {
       font-size: 70px;
+      color: white;
+      background-color: grey;
     }
     img {
       margin: 40px 0px 0px 0px;
       border: 7px solid white;
       border-radius: 20px;
+      width: 0px;
     }
     ul {
       padding: 10px;
